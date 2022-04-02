@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Logging.AddAWSProvider();
 
+
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
