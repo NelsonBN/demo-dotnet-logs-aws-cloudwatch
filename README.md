@@ -4,7 +4,7 @@ Demo .NET for logs in AWS CloudWatch
 
 
 ## Dependencies
-- AWS.Logger.AspNetCore
+- [AWS.Logger.AspNetCore](https://www.nuget.org/packages/AWS.Logger.AspNetCore)
 
 
 
